@@ -82,3 +82,6 @@ To run this project locally, follow these steps:
 
 - The flower images used for training are from the [Flowers Recognition Dataset](https://www.kaggle.com/datasets/alxmamaev/flowers-recognition) by Alexander Mamaev.
 - This project is built using [Streamlit](https://streamlit.io/) and [TensorFlow](https://www.tensorflow.org/).
+
+##App
+Demo: https://flower-image-recognition-app.onrender.com/
